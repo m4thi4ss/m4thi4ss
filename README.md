@@ -28,13 +28,17 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
+  
+  
 </p>
 
 - **Back-End:** C#, Java, Spring Boot, Entity Framework, API REST, SQL.
 - **Front-End:** HTML, CSS.
 - **Ferramentas:** Postman, Git, GitHub, Swagger.
 - **Metodologias:** Scrum, Kanban.
-- **Sistemas Operacionais:** Windows, Linux.
+- **Sistemas Operacionais:** Windows.
 - **Outros:** Microsoft Azure, manipulação de APIs, automação com IA.
 
 ---
