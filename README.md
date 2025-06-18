@@ -20,8 +20,6 @@
 
 <p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -34,7 +32,7 @@
   
 </p>
 
-- **Back-End:** C#, Java, Spring Boot, Entity Framework, API REST, SQL.
+- **Back-End:** C#, Entity Framework, API REST, SQL.
 - **Front-End:** HTML, CSS.
 - **Ferramentas:** Postman, Git, GitHub, Swagger.
 - **Metodologias:** Scrum, Kanban.
