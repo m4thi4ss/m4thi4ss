@@ -24,7 +24,7 @@ jobs:
           unzip commit-eater.zip
           cd commit-eater-main
           npm install
-          npm run generate
+          npm run generate -- m4thi4ss
           cp dist/pacman.svg ../pacman.svg
 
       - name: Commit & Push do pacman.svg
