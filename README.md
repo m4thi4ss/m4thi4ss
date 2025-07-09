@@ -11,7 +11,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=Olá,%20sou%20o%20João!%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Desenvolvedor%20Java%20|%20Back-end%20|%20Estudante&descAlignY=60&descAlign=50" />
 </p>
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20sou%20o%20João!%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Desenvolvedor%20Java%20|%20Back-end%20|%20Estudante&descAlignY=60&descAlign=50&stroke=0000FF&strokeWidth=3" />
+</p>
+---
 ## 📫 Caso queira falar comigo:
 
 <p align="light">
