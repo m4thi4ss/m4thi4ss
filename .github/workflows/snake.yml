@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # roda automaticamente todos os dias à meia‑noite (UTC)
+  workflow_dispatch:       # também pode ser acionado manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: m4thi4ss
+          outputs: |
+            output/github-contribution-grid-snake.svg
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "🟡 Atualiza animação Pac‑Man"
