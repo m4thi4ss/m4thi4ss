@@ -57,4 +57,4 @@
 ---
 ## 🟡 Pac-Man comendo meus commits
 
-<img src="./dist/pacman.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman.svg" width="100%" />
