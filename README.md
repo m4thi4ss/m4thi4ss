@@ -57,8 +57,5 @@
 
 ---
 
-## 🟡 Pac-Man comendo meus commits
-
-![snake gif](./output/github-contribution-grid-snake.svg)
 
 
