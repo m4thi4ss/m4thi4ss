@@ -13,7 +13,14 @@
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaovitorsilvamathias/) | [![Email](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail)](mailto:silvamathiasj@gmail.com) |
 | --- | --- |
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:silvamathiasj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🚀 Linguagens e Tecnologias que procuro me especializar:
