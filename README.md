@@ -2,20 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=João%20Mathias%20&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Developer%20Junior%20|%20Back-end%20|%20Desenvolvedor%20C%23&descAlignY=60&descAlign=50" />
 </p>
 
-### Sobre mim: 
+### Sobre mim:
 
 - Tenho formação em **Análise e Desenvolvimento de Sistemas** pela Uninove.
 - Atualmente concluí curso de **Desenvolvedor Back-End** no Senai São Caetano do Sul.
 - Tenho experiência como **Assistente Administrativo** e **Help Desk**, além de projetos desenvolvidos como **Back-End Developer**.
 - Sou apaixonado por tecnologia, automação e sempre buscando evoluir em desenvolvimento de sistemas.
 
----
-### 👨‍💻 Sobre mim
-
-- Formação em **Análise e Desenvolvimento de Sistemas** pela Uninove.  
-- Concluí recentemente o curso de **Desenvolvedor Back-End** no Senai São Caetano do Sul.  
-- Experiência como **Assistente Administrativo** e **Help Desk**, com projetos práticos como **Back-End Developer**.  
-- Apaixonado por tecnologia e automação, sempre buscando evoluir e aprimorar minhas habilidades em desenvolvimento de sistemas, especialmente com **C#**.  
 ---
 ## 📫 Caso queira falar comigo:
 
