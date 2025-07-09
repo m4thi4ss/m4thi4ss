@@ -1,0 +1,28 @@
+name: Atualizar Pac-Man Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Roda todo domingo à meia-noite UTC
+  workflow_dispatch:       # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Permissão para escrever no repositório
+
+    steps:
+      - name: Gerar gráfico Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: m4thi4ss
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar no branch main
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: main
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
