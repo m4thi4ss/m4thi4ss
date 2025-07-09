@@ -2,7 +2,7 @@ name: 🟡 Pac-Man Commit Eater
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,13 @@ jobs:
       - name: Checkout do seu repositório
         uses: actions/checkout@v3
 
-      - name: Baixar o commit-eater (repositório do LeoMorais0930)
+      - name: Baixar o commit-eater do LeoMorais
         uses: actions/checkout@v3
         with:
           repository: LeoMorais0930/commit-eater
           path: commit-eater
 
-      - name: Instalar dependências e gerar SVG
+      - name: Instalar dependências e gerar pacman.svg
         run: |
           cd commit-eater
           npm install
