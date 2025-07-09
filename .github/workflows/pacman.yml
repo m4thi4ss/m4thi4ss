@@ -2,8 +2,8 @@ name: 🟡 Pac-Man Commit Eater
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
+  workflow_dispatch:       # permite rodar manualmente
 
 jobs:
   commit-eater:
@@ -13,17 +13,16 @@ jobs:
       - name: Checkout do seu repositório
         uses: actions/checkout@v3
 
-      - name: Instalar Git e Node.js
+      - name: Instalar dependências
         run: |
           sudo apt-get update
-          sudo apt-get install -y git curl
-          curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-          sudo apt-get install -y nodejs
+          sudo apt-get install -y curl unzip nodejs npm
 
-      - name: Clonar repositório commit-eater
+      - name: Baixar o repositório commit-eater como ZIP
         run: |
-          git clone https://github.com/LeoMorais0930/commit-eater.git
-          cd commit-eater
+          curl -L https://github.com/LeoMorais0930/commit-eater/archive/refs/heads/main.zip -o commit-eater.zip
+          unzip commit-eater.zip
+          cd commit-eater-main
           npm install
           npm run generate
           cp dist/pacman.svg ../pacman.svg
