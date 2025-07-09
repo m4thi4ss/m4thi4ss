@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=m4thi4ss&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=0000FF&title_color=FF0000&border_color=FF0000&locale=pt-br" height="150" />
 
   <!-- Streak Stats -->
- <img src="https://streak-stats.demolab.com/?user=m4thi4ss&theme=dark&background=000000&ring=0000FF&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FF0000" height="150" />
+<img src="https://streak-stats.demolab.com/?user=m4thi4ss&theme=dark&background=000000&ring=0000FF&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FF0000" height="150" />
 
   <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss&theme=darkhub&margin-w=8&margin-h=8" height="150" />
