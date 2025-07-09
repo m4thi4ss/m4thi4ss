@@ -10,16 +10,7 @@
 - Sou apaixonado por tecnologia, automação e sempre buscando evoluir em desenvolvimento de sistemas.
 
 ---
-## 📫 Caso queira falar comigo:
 
-<p align="light">
-  <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:silvamathiasj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -77,4 +68,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
+
+---
+## 📫 Caso queira falar comigo:
+
+<p align="light">
+  <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:silvamathiasj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
