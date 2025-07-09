@@ -59,7 +59,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4thi4ss&label=Visitantes&color=0A66C2&style=for-the-badge" alt="Contador de Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=m4thi4ss&label=Visitantes&color=0000FF&style=flat-square" alt="Contador de Visitantes" />
 </p>
 
 ---
