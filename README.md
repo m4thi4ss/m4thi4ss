@@ -57,5 +57,8 @@
 ---
 ## 🟡 Pac-Man comendo meus commits
 
-<img src="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
 
