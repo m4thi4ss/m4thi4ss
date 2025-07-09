@@ -57,6 +57,7 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/github-contribution-grid-snake.svg" alt="Pac‑Man comendo commits" />
-</h1>
+## 🟡 Pac-Man comendo meus commits
+
+![snake gif](https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/output/github-contribution-grid-snake.svg)
+
