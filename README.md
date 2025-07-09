@@ -53,14 +53,6 @@
 | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m4thi4ss&repo=SenaiSystem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/m4thi4ss/SenaiSystem) |
 | --- |
 | Projeto **SenaiSystem**: aplicação desenvolvida em C# no Visual Studio, focada na criação, edição e gerenciamento de anotações, utilizando conceitos de POO, manipulação de arquivos e interfaces gráficas, com arquitetura em camadas (Controllers, DTOs, Interfaces, Models, Repositories, Services e ViewModels). |
-
----
-
-## 📊 Status GitHub:
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4thi4ss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ---
 
 ### 📊 Estatísticas GitHub
