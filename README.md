@@ -57,8 +57,4 @@
 
 ---
 
-## 🟡 Pac-Man comendo meus commits
-
-<img src="./pacman.svg" width="100%" />
-
 
