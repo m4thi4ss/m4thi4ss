@@ -11,8 +11,6 @@
 
 ## 📫 Caso queira falar comigo:
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joaovitorsilvamathias/) | [![Email](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail)](mailto:silvamathiasj@gmail.com) |
-| --- | --- |
 <p align="center">
   <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,25 +19,6 @@
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
-
-### 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:silvamathiasj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+55SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/seuuser" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
 
 ---
 
