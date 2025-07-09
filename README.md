@@ -11,7 +11,7 @@
 
 ## 📫 Caso queira falar comigo:
 
-<p align="center">
+<p align="light">
   <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
