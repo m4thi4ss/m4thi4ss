@@ -11,9 +11,6 @@
 
 ---
 
-
----
-
 ## 🚀 Linguagens e Tecnologias que procuro me especializar:
 
 <p align="left">
