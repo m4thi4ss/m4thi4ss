@@ -1,0 +1,29 @@
+name: 🟡 Pac-Man Commit Eater
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  commit-eater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do seu repositório
+        uses: actions/checkout@v3
+
+      - name: Clonar o repositório commit-eater
+        run: |
+          git clone https://github.com/LeoMorais0930/commit-eater.git
+          cd commit-eater
+          npm install
+          npm run generate
+          cp dist/pacman.svg ../pacman.svg
+
+      - name: Commit & Push do pacman.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "🎮 Atualiza animação Pac-Man"
+          add: "pacman.svg"
