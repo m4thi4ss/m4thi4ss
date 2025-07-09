@@ -6,7 +6,10 @@
 - Atualmente concluí curso de **Desenvolvedor Back-End** no Senai São Caetano do Sul.
 - Tenho experiência como **Assistente Administrativo** e **Help Desk**, além de projetos desenvolvidos como **Back-End Developer**.
 - Sou apaixonado por tecnologia, automação e sempre buscando evoluir em desenvolvimento de sistemas.
-
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=Olá,%20sou%20o%20João!%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Desenvolvedor%20Java%20|%20Back-end%20|%20Estudante&descAlignY=60&descAlign=50" />
+</p>
 ---
 
 ## 📫 Caso queira falar comigo:
