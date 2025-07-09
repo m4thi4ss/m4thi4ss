@@ -8,6 +8,14 @@
 - Atualmente concluí curso de **Desenvolvedor Back-End** no Senai São Caetano do Sul.
 - Tenho experiência como **Assistente Administrativo** e **Help Desk**, além de projetos desenvolvidos como **Back-End Developer**.
 - Sou apaixonado por tecnologia, automação e sempre buscando evoluir em desenvolvimento de sistemas.
+
+---
+### 👨‍💻 Sobre mim
+
+- Formação em **Análise e Desenvolvimento de Sistemas** pela Uninove.  
+- Concluí recentemente o curso de **Desenvolvedor Back-End** no Senai São Caetano do Sul.  
+- Experiência como **Assistente Administrativo** e **Help Desk**, com projetos práticos como **Back-End Developer**.  
+- Apaixonado por tecnologia e automação, sempre buscando evoluir e aprimorar minhas habilidades em desenvolvimento de sistemas, especialmente com **C#**.  
 ---
 ## 📫 Caso queira falar comigo:
 
