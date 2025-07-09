@@ -59,9 +59,16 @@
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4thi4ss&show_icons=true&theme=dracula&locale=pt-br" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4thi4ss&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss&theme=dracula&margin-w=8&margin-h=8" height="150" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=m4thi4ss&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=0000FF&title_color=FF0000&border_color=FF0000&locale=pt-br" height="150" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=m4thi4ss&theme=dark&background=000000&ring=0000FF&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FF0000" height="150" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss&theme=onestar&no-bg=true&title=FF0000&text=FFFFFF&margin-w=8&margin-h=8" height="150" />
+
 </div>
 
 ---
