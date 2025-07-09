@@ -56,7 +56,5 @@
 <img src="https://profile-counter.glitch.me/m4thi4ss/count.svg?">
 
 ---
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" />
-</h1>
+
 
