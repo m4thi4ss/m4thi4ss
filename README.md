@@ -54,6 +54,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4thi4ss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4thi4ss&show_icons=true&theme=dracula&locale=pt-br" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4thi4ss&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
 
 ---
 ## Commits
