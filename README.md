@@ -58,12 +58,8 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4thi4ss&label=Visualizações&color=0000FF&style=for-the-badge" alt="Contador de Visualizações" />
-</p>
-
 ---
-## Commits
+## 🟡 Pacman dos Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4thi4ss/m4thi4ss/output/pacman-contribution-graph-dark.svg" />
