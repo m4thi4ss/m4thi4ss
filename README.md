@@ -1,4 +1,6 @@
-# Olá, meu nome é João Vitor Silva Mathias 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Olá,%20sou%20o%20João!%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Desenvolvedor%20C#%20|%20Back-end%20|%20Dev&descAlignY=60&descAlign=50" />
+</p>
 
 ### Sobre mim: 
 
