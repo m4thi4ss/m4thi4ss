@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=João%20Mathias%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Developer%20Junior%20|%20Desenvolvedor%20C%23&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=João%20Mathias%20👋&fontColor=FFFFFF&fontSize=35&fontAlignY=40&desc=Developer%20Junior%20|%20Back-end%20|%20Desenvolvedor%20C%23&descAlignY=60&descAlign=50" />
 </p>
+
 ### Sobre mim: 
 
 - Tenho formação em **Análise e Desenvolvimento de Sistemas** pela Uninove.
