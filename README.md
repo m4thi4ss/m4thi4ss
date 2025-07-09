@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=m4thi4ss&theme=dark&background=000000&ring=0000FF&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FF0000" height="150" />
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss&theme=darkhub&title=FF0000&text=FFFFFF&margin-w=8&margin-h=8" height="150" />
+ <img src="https://github-profile-trophy.vercel.app/?username=m4thi4ss" />
 
 </div>
 
