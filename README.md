@@ -38,9 +38,17 @@
 
 ## 💡 Projeto em destaque:
 
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=m4thi4ss&repo=SenaiSystem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/m4thi4ss/SenaiSystem) |
-| --- |
-| Projeto **SenaiSystem**: aplicação desenvolvida em C# no Visual Studio, focada na criação, edição e gerenciamento de anotações, utilizando conceitos de POO, manipulação de arquivos e interfaces gráficas, com arquitetura em camadas (Controllers, DTOs, Interfaces, Models, Repositories, Services e ViewModels). |
+### 🛒 Gerenciador de Produtos
+
+![C#](https://img.shields.io/badge/C%23-.NET%206-blue)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-REST%20API-purple)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
+Aplicação web desenvolvida em C# com ASP.NET Core, focada no gerenciamento de produtos por meio de operações CRUD.
+O projeto segue boas práticas de arquitetura em camadas, separação de responsabilidades e padrões como Repository e DTO.
+
+🔗 Repositório:  
+https://github.com/m4thi4ss/GerenciadorPodutos
 ---
 
 ### 📊 Estatísticas GitHub
