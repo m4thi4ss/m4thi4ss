@@ -38,17 +38,11 @@
 
 ## 💡 Projeto em destaque:
 
-### 🛒 Gerenciador de Produtos
+| 🛒 **Gerenciador de Produtos** |
+|-------------------------------|
+| Aplicação web desenvolvida em C# com ASP.NET Core para cadastro, edição, consulta e exclusão de produtos. O projeto utiliza arquitetura em camadas (Controllers, DTOs, Interfaces, Models, Repositories e ViewModels), API RESTful e boas práticas de desenvolvimento. |
+| 🔗 https://github.com/m4thi4ss/GerenciadorPodutos |
 
-![C#](https://img.shields.io/badge/C%23-.NET%206-blue)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-REST%20API-purple)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-
-Aplicação web desenvolvida em C# com ASP.NET Core, focada no gerenciamento de produtos por meio de operações CRUD.
-O projeto segue boas práticas de arquitetura em camadas, separação de responsabilidades e padrões como Repository e DTO.
-
-🔗 Repositório:  
-https://github.com/m4thi4ss/GerenciadorPodutos
 ---
 
 ### 📊 Estatísticas GitHub
