@@ -38,9 +38,9 @@
 
 ## 💡 Projeto em destaque:
 
-<h1 align="center">
+<h2 align="center">
   🛒 <strong>Gerenciador de Produtos</strong>
-</h1>
+</h2>
 
 <p align="center">
   Aplicação web desenvolvida em C# com ASP.NET Core para cadastro, edição, consulta e exclusão de produtos.<br>
