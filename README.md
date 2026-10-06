@@ -135,7 +135,7 @@ Meu objetivo é construir uma base técnica cada vez mais sólida, evoluindo gra
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaovitorsilvamathias" target="_blank">
+  <a href="https://www.linkedin.com/in/joaomathiass" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:silvamathiasj@gmail.com">
